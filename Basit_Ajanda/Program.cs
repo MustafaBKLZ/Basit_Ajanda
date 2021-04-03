@@ -13,6 +13,10 @@ namespace Basit_Ajanda
         [STAThread]
         static void Main()
         {
+
+
+            Cls.SQLConnectionClass.Baglanti(); // burada f12 ye bastığımdan bandicam durmuş. geç fark ettim birazx ilerletmişsim. o kısımları göstereceğim.
+
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Anaform());
