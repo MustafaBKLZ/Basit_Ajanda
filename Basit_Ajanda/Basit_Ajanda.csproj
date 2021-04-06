@@ -92,6 +92,7 @@
     <EmbeddedResource Include="Tarihe_Git.resx">
       <DependentUpon>Tarihe_Git.cs</DependentUpon>
     </EmbeddedResource>
+    <None Include="basit_ajanda.bak" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -101,6 +102,9 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="BASIT_AJANDA_DB.sql" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
