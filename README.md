@@ -6,4 +6,4 @@ Video Url:
 
 Part1 = https://www.youtube.com/watch?v=kbHE5W7Ag8M
 
-Part2 = https://www.youtube.com/watch?v=lh1O6hfj0Tg&t=1s
+Part2 = https://www.youtube.com/watch?v=lh1O6hfj0T
